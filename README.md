@@ -18,10 +18,13 @@ There is no missing value in the dataset.
 Credit Card Fraud Detection is a typical example of classification. In this process, we have focused more on analyzing the feature modeling and possible business use cases of the algorithm’s output than on the algorithm itself. We used the implementation of Local Outlier Factor (LOF) and Isolation Forest Algorithm to identify transactions with a high probability of being credit card fraud.
 
 
-[Source](https://www.3pillarglobal.com/insights/credit-card-fraud-detection)
+
 
 ## Results
 
 ![Histogram](https://raw.githubusercontent.com/rahuls321/Credit-Card-Fraud-Detection/master/output_10_0.png)
 
 ![Confusion Matrix](https://raw.githubusercontent.com/rahuls321/Credit-Card-Fraud-Detection/master/output_12_0.png)
+
+
+[Source](https://www.3pillarglobal.com/insights/credit-card-fraud-detection)
