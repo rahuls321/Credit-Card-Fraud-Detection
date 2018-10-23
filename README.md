@@ -19,3 +19,9 @@ Credit Card Fraud Detection is a typical example of classification. In this proc
 
 
 [Source](https://www.3pillarglobal.com/insights/credit-card-fraud-detection)
+
+## Results
+
+![Histogram](https://raw.githubusercontent.com/rahuls321/Credit-Card-Fraud-Detection/master/output_10_0.png)
+
+![Confusion Matrix](https://raw.githubusercontent.com/rahuls321/Credit-Card-Fraud-Detection/master/output_12_0.png)
